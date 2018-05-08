@@ -464,7 +464,9 @@ compile:
   # --------- use current jni code on this branch ---------
 # --- Android x86 build ---
 
-
+  pre:
+  test:
+  	override:
 
 
 # ----- CI artifact cleanup -----
