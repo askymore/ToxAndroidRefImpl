@@ -1,3 +1,0 @@
-include ':app', ':library'
-include ':native-audio-jni'
-include ':jnilib'
